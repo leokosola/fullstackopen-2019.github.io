@@ -7,7 +7,7 @@ lang: fi
 
 <div class="content">
 
-Ennen kun menemme uuteen asiaan, nostetaan esiin muutama edellisen osan huomiota herättänyt seikka.
+Ennen kuin menemme uuteen asiaan, nostetaan esiin muutama edellisen osan huomiota herättänyt seikka.
 
 ### console.log
 
